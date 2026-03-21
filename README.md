@@ -4,11 +4,9 @@
 
 <img width="502" height="326" alt="turtlebot" src="https://github.com/user-attachments/assets/5fe294a9-c330-4eef-b358-4c006970bb63" />
 
-https://youtu.be/rvm-m2ogrLA
-
-https://youtu.be/1nTMyr4ybi0
-
-https://youtu.be/5D9S_tcenL4
+ * TurtleBot3 15 Assembling the TurtleBot3 Basic : https://youtu.be/rvm-m2ogrLA
+ * TurtleBot3 16 Assembling the TurtleBot3 Premium : https://youtu.be/1nTMyr4ybi0
+ * TurtleBot3 31 Burger Assembly : https://youtu.be/5D9S_tcenL4
 
 ## 영문 메뉴얼
 https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/
