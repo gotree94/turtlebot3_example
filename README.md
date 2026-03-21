@@ -34,6 +34,10 @@ https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/
 
 https://www.robotis.com/service/downloadpage.php?ca_id=7070
 
+
+<img width="759" height="431" alt="026" src="https://github.com/user-attachments/assets/9e623cca-4edc-4e71-8290-7eab07bb5e72" />
+
+
 TurtleBot3 Burger 3D 모델 다운로드 경로
 ① GitHub — STL 파일 (공식, 가장 확실)
 ROBOTIS 공식 GitHub turtlebot3_description 패키지에 ROS용 메시 파일이 전부 포함되어 있습니다.
