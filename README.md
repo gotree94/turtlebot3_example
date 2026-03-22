@@ -28,22 +28,6 @@ https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/
 <img src="./img//TURTLEBOT3_QS_BURGER_027.jpg"  width="400"> <img src="./img//TURTLEBOT3_QS_BURGER_028.jpg"  width="400"> <br>
 <img src="./img//TURTLEBOT3_QS_BURGER_029.jpg"  width="400"> <br>
 
-![TurtleBot3](./TURTLEBOT3_QS_BURGER_001.jpg) ![TurtleBot3](./TURTLEBOT3_QS_BURGER_002.jpg) <br>
-![TurtleBot3](./TURTLEBOT3_QS_BURGER_003.jpg) ![TurtleBot3](./TURTLEBOT3_QS_BURGER_004.jpg) <br>
-![TurtleBot3](./TURTLEBOT3_QS_BURGER_005.jpg) ![TurtleBot3](./TURTLEBOT3_QS_BURGER_006.jpg) <br>
-![TurtleBot3](./TURTLEBOT3_QS_BURGER_007.jpg) ![TurtleBot3](./TURTLEBOT3_QS_BURGER_008.jpg) <br>
-![TurtleBot3](./TURTLEBOT3_QS_BURGER_009.jpg) ![TurtleBot3](./TURTLEBOT3_QS_BURGER_010.jpg) <br>
-![TurtleBot3](./TURTLEBOT3_QS_BURGER_011.jpg) ![TurtleBot3](./TURTLEBOT3_QS_BURGER_012.jpg) <br>
-![TurtleBot3](./TURTLEBOT3_QS_BURGER_013.jpg) ![TurtleBot3](./TURTLEBOT3_QS_BURGER_014.jpg) <br>
-![TurtleBot3](./TURTLEBOT3_QS_BURGER_015.jpg) ![TurtleBot3](./TURTLEBOT3_QS_BURGER_016.jpg) <br>
-![TurtleBot3](./TURTLEBOT3_QS_BURGER_017.jpg) ![TurtleBot3](./TURTLEBOT3_QS_BURGER_018.jpg) <br>
-![TurtleBot3](./TURTLEBOT3_QS_BURGER_019.jpg) ![TurtleBot3](./TURTLEBOT3_QS_BURGER_020.jpg) <br>
-![TurtleBot3](./TURTLEBOT3_QS_BURGER_021.jpg) ![TurtleBot3](./TURTLEBOT3_QS_BURGER_022.jpg) <br>
-![TurtleBot3](./TURTLEBOT3_QS_BURGER_023.jpg) ![TurtleBot3](./TURTLEBOT3_QS_BURGER_024.jpg) <br>
-![TurtleBot3](./TURTLEBOT3_QS_BURGER_025.jpg) ![TurtleBot3](./TURTLEBOT3_QS_BURGER_026.jpg) <br>
-![TurtleBot3](./TURTLEBOT3_QS_BURGER_027.jpg) ![TurtleBot3](./TURTLEBOT3_QS_BURGER_028.jpg) <br>
-![TurtleBot3](./TURTLEBOT3_QS_BURGER_029.jpg) <br>
-
 ## 도면
 
 https://www.robotis.com/service/downloadpage.php?ca_id=7070
